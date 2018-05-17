@@ -1,0 +1,8 @@
+Durruti
+-------
+
+A tool to synchronize the contents of two directories using kernel-interfaces 
+to improve the speed (reflink-copies).
+
+To buld it just get a recent version of g++ and use "make" to create the 
+binaries.
